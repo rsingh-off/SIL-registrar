@@ -1,4 +1,4 @@
-site_name: SIL-Aadhar
+site_name: SIL-Registrar
 locale: en
 theme:
     name: mkdocs
@@ -10,5 +10,6 @@ theme:
         - content.code.select
 nav:
     - index.md
-    - about.md
-    - Help.md
+    - performance.md
+    - project_design.md
+    - help.md
