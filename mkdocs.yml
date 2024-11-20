@@ -1,10 +1,14 @@
-site_name: Mk-Learn
+site_name: SIL-Aadhar
 locale: en
 theme:
-    name: material
+    name: mkdocs
     color_mode: auto
     user_color_mode_toggle: True
-    logo: img/site_logo.png
+    logo: img/shreetron.png
     features:
         - content.code.copy
         - content.code.select
+nav:
+    - index.md
+    - about.md
+    - Help.md
